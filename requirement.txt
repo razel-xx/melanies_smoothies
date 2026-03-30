@@ -1,0 +1,2 @@
+snowlake-snowpark-python
+streamlit
